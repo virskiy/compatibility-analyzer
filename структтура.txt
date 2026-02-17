@@ -1,0 +1,9 @@
+compatibility-analyzer/
+│
+├── index.html              # Фронтенд сайта
+├── app.py                   # Бекенд на Flask
+├── requirements.txt         # Зависимости Python
+├── .env                     # Ключ API (не добавлять в Git!)
+├── .gitignore              # Игнорируемые файлы
+├── README.md               # Описание проекта
+└── Procfile                # Для деплоя на Render/Heroku
